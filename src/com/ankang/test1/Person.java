@@ -3,7 +3,8 @@ package com.ankang.test1;
 public class Person {
 	private String name;
 	private int age;
-	private Integer aa;	
+	private Integer aa;
+	private int test;	
 	public Person(String name, int age, Integer aa) {
 		super();
 		this.name = name;
